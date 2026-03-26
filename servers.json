@@ -1,0 +1,7 @@
+{
+  "servers": {
+    "612": {"name": "Boune", "host": "34.252.21.81", "port": 5557},
+    "649": {"name": "Fallanster", "host": "34.252.21.81", "port": 5556},
+    "650": {"name": "Allisteria", "host": "34.252.21.81", "port": 5555}
+  }
+}
