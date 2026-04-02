@@ -1,7 +1,13 @@
-{
-  "servers": {
-    "612": {"name": "Boune", "host": "34.252.21.81", "port": 5557},
-    "649": {"name": "Fallanster", "host": "34.252.21.81", "port": 5556},
-    "650": {"name": "Allisteria", "host": "34.252.21.81", "port": 5555}
+  {
+    "servers": {
+      "612": {"name": "Boune", "host": "dofusretro-ga-boune.ankama-games.com", "port": 443},
+      "649": {"name": "Fallanster", "host": "dofusretro-ga-fallanster.ankama-games.com", "port": 443},
+      "650": {"name": "Allisteria", "host": "dofusretro-ga-allisteria.ankama-games.com", "port": 443},
+      "662": {"name": "Boune 2", "host": "dofusretro-ga-boune-2.ankama-games.com", "port": 443},
+      "663": {"name": "Boune 3", "host": "dofusretro-ga-boune-3.ankama-games.com", "port": 443},
+      "664": {"name": "Allisteria 2", "host": "dofusretro-ga-allisteria-2.ankama-games.com", "port": 443},
+      "665": {"name": "Allisteria 3", "host": "dofusretro-ga-allisteria-3.ankama-games.com", "port": 443},
+      "667": {"name": "Fallanster 2", "host": "dofusretro-ga-fallanster-2.ankama-games.com", "port": 443},
+      "668": {"name": "Boune 4", "host": "dofusretro-ga-boune-4.ankama-games.com", "port": 443}
+    }
   }
-}
