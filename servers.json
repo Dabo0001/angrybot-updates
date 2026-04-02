@@ -5,6 +5,6 @@
     "650": {"name": "Allisteria", "host": "34.252.21.81", "port": 5555},
     "651": {"name": "Allisteria2", "host": "34.252.21.81", "port": 5558},
     "652": {"name": "Allisteria3", "host": "34.252.21.81", "port": 5558},
-    "653": {"name": "Allisteria4", "host": "34.252.21.81", "port": 5558},
+    "653": {"name": "Allisteria4", "host": "34.252.21.81", "port": 5558}
   }
 }
